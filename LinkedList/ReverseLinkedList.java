@@ -7,6 +7,7 @@
  *     ListNode(int val) { this.val = val; }
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
+ this is a program of reverse linked list in this we are use three variables to solve the problem
  */
 class ReverseLinkedList {
     public ListNode reverseList(ListNode head) {
