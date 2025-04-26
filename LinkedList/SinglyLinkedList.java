@@ -32,6 +32,26 @@ public class SinglyLinkedList{
         size++;
     }
 
+    public int deleteFirst(){
+        int val = head.value;
+        head = head.next;
+        if(head==null){
+            tail = null;
+        }
+        size--;
+        return val;
+    }
+
+    public void insertLast(int val){
+        Node node = new Node(val);
+        if(tail==null){
+            insertFirst(val);
+        }
+        tail.next = node;
+        tail = node;
+        size++;
+    }
+
     public void display(){
         Node temp = head;
         if(head==null){
