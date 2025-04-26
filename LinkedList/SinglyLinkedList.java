@@ -52,6 +52,21 @@ public class SinglyLinkedList{
         size++;
     }
 
+    public void deleteLast(){
+        int val;
+        if(size<=1){
+            deleteFirst();
+            return;
+        }
+        Node temp = head;
+        while(temp.next.next!=null){
+            temp = temp.next;
+        }
+        val = temp.next.value;
+        temp.next = null;
+        size--;
+    }
+
     public void display(){
         Node temp = head;
         if(head==null){
