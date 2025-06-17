@@ -1,4 +1,3 @@
-package com.priyanshu.array;
 import java.util.*;
 public class AnagramString {
     public static void main(String[] args) {
