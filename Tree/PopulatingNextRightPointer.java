@@ -22,6 +22,7 @@ class Node {
 */
 
 //leetcide ques no 116
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 
 class Solution {
     public Node connect(Node root) {
