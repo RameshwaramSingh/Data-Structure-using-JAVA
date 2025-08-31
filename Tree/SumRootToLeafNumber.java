@@ -13,7 +13,7 @@
  *     }
  * }
  */
-//leetcod ques no 129
+//leetcode ques no 129
 https://leetcode.com/problems/sum-root-to-leaf-numbers/
 
 class Solution {
