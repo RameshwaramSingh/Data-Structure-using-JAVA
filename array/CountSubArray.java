@@ -24,3 +24,4 @@ public class CountSubArray {
         System.out.println(countSubarrays(arr));
     }
 }
+
