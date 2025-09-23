@@ -19,3 +19,4 @@ public class IdenticalPair {
         System.out.println(ans);
     }
 }
+
