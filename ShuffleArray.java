@@ -17,3 +17,4 @@ public class ShuffleArray {
         System.out.println(Arrays.toString(obj.shuffle(num,3)));
     }
 }
+
