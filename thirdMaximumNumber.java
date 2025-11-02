@@ -22,3 +22,4 @@ public class thirdMaximumNumber {
         return nums[n-1];
     }
 }
+
