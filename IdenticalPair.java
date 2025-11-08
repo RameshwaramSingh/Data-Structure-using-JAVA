@@ -1,5 +1,4 @@
 package com.priyanshu;
-
 public class IdenticalPair {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
@@ -19,4 +18,5 @@ public class IdenticalPair {
         System.out.println(ans);
     }
 }
+
 
