@@ -28,3 +28,4 @@ public class Factorial_03 {
         System.out.println("Factorial of the number = "+fac);
     }
 }
+
