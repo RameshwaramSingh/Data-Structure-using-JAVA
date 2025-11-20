@@ -27,3 +27,4 @@ public class sortArrayByParity {
         System.out.println(Arrays.toString(sortArrayByParity(arr)));
     }
 }
+
