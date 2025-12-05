@@ -55,3 +55,4 @@ public class NumSystem_02 {
         obj.factor();
     }
 }
+
