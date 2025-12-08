@@ -1,5 +1,4 @@
 package com.priyanshu;
-
 import java.util.Arrays;
 
 public class ReverseSubArray {
@@ -24,4 +23,5 @@ public class ReverseSubArray {
         obj.reverseSubArray(arr,7,2,4);
     }
 }
+
 
