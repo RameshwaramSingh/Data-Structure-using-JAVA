@@ -1,5 +1,4 @@
 package com.priyanshu;
-
 public class RichestCustomer {
     public int maximumWealth(int[][] accounts) {
         int ans = Integer.MIN_VALUE;
@@ -26,3 +25,4 @@ public class RichestCustomer {
         System.out.println(obj.maximumWealth(accounts));
     }
 }
+
