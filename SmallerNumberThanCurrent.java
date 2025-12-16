@@ -28,3 +28,4 @@ public class SmallerNumberThanCurrent {
         System.out.println(Arrays.toString(obj.smallerNumbersThanCurrent(nums)));
     }
 }
+
