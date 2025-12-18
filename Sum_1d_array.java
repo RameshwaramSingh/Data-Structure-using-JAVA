@@ -17,3 +17,4 @@ public class Sum_1d_array {
         System.out.println(Arrays.toString(obj.runningSum(nums)));
     }
 }
+
